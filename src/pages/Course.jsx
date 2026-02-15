@@ -110,7 +110,7 @@ const Course = () => {
           {courses.length > 0 ? (
             courses.map((course) => {
               const courseImages = {
-                "Digital Marketing Fundamentals": "/Images/Digital Marketing Fundamentals.webp",
+                "Digital Marketing Fundamentals": "https://www.monash.edu/__data/assets/image/0006/3997950/illustration-digital-marketing.jpg",
                 "SEO Mastery Course": "https://techwalksol.com/wp-content/uploads/2025/02/what-is-seo-e1722370603532.webp",
                 "Social Media Marketing Strategy": "https://images.unsplash.com/photo-1683721003111-070bcc053d8b?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                 "Google Ads & PPC Training": "https://aclm.in/wp-content/uploads/2021/09/Ads.png",
